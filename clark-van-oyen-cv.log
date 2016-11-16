@@ -1,17 +1,17 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.2.26)  15 NOV 2016 17:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2016.11.15)  15 NOV 2016 18:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **clark-van-oyen-cv.tex
 (./clark-van-oyen-cv.tex
-LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 2 languages loaded.
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 3 language(s) loaded.
 (./resume.cls
 Document Class: resume 2010/07/10 v0.9 Resume class
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -24,12 +24,11 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)
-(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+) (./parskip.sty
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen103
 \extrarowheight=\dimen104
 \NC@list=\toks14
@@ -37,13 +36,13 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \backup@length=\skip44
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 )
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
@@ -162,23 +161,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 137--140
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--152
+Underfull \hbox (badness 10000) in paragraph at lines 149--151
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--156
+Underfull \hbox (badness 10000) in paragraph at lines 152--154
 
  []
 
-[2] [3] (./clark-van-oyen-cv.aux) ) 
+[2] (./clark-van-oyen-cv.aux) ) 
 Here is how much of TeX's memory you used:
- 871 strings out of 495029
- 11811 string characters out of 6181523
- 71333 words of memory out of 5000000
- 4126 multiletter control sequences out of 15000+600000
+ 870 strings out of 494954
+ 11670 string characters out of 6181002
+ 71846 words of memory out of 5000000
+ 4201 multiletter control sequences out of 15000+600000
  7639 words of font info for 27 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 27i,6n,21p,273b,171s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,6n,21p,273b,167s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on clark-van-oyen-cv.dvi (3 pages, 6984 bytes).
+Output written on clark-van-oyen-cv.dvi (2 pages, 6904 bytes).
