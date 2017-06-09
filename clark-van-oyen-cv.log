@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2016.11.15)  15 NOV 2016 18:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2016.11.15)  9 JUN 2017 10:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -133,51 +133,51 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 31--31
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-
-Overfull \hbox (19.43037pt too wide) in paragraph at lines 83--93
-[][] 
- []
-
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 127--130
+Overfull \hbox (19.43037pt too wide) in paragraph at lines 85--95
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--132
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--133
+Underfull \hbox (badness 10000) in paragraph at lines 133--135
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--136
+Underfull \hbox (badness 10000) in paragraph at lines 136--138
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--140
+Underfull \hbox (badness 10000) in paragraph at lines 139--142
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--151
+Underfull \hbox (badness 10000) in paragraph at lines 151--153
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--154
+Underfull \hbox (badness 10000) in paragraph at lines 154--156
 
  []
 
-[2] (./clark-van-oyen-cv.aux) ) 
+[2] [3] (./clark-van-oyen-cv.aux) ) 
 Here is how much of TeX's memory you used:
  870 strings out of 494954
  11670 string characters out of 6181002
- 71846 words of memory out of 5000000
+ 70846 words of memory out of 5000000
  4201 multiletter control sequences out of 15000+600000
  7639 words of font info for 27 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 27i,6n,21p,273b,167s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,6n,21p,277b,171s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on clark-van-oyen-cv.dvi (2 pages, 6904 bytes).
+Output written on clark-van-oyen-cv.dvi (3 pages, 7124 bytes).
